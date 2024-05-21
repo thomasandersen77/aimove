@@ -1,1 +1,1 @@
-# aimove
+# AI move
